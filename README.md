@@ -6,6 +6,10 @@
 
 Welcome to the **Text-to-Speech (TTS)** repository! This open-source project provides a variety of methods for implementing **Text-to-Speech** functionality in Python. The goal of this repo is to offer multiple approaches for converting text into speech, helping you choose the one that best suits your needs.
 
+
+![Image](https://github.com/user-attachments/assets/85253878-d52f-4ef3-a6b7-c0c04afe2930)
+
+
 The repository contains implementations using different libraries and models, including:
 1. **Google Text-to-Speech (gTTS)** — A simple and easy-to-use method for converting text to speech via Google's Text-to-Speech API.
 2. **Microsoft SpeechT5** — A powerful text-to-speech model using Microsoft's `speecht5_tts` from the Hugging Face Transformers library.
